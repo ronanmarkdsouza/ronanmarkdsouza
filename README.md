@@ -23,7 +23,7 @@ I am a data science engineering student with a passion for rocketry. I am curren
 </div>
 
 ### :pager: Contact Me:
-:mailbox_with_mail: [Email](mailto:ronanmarkdsouza@gmail.com)<br>
-:dog: [Email-Fetch](mailto:ronan@gofetch.in)<br>
+:mailbox_with_mail: [Email](mailto:ronanmarkdsouza@proton.me)<br>
+
 <br>
 Go check out [thrustMIT!](https://www.thrustmit.in) and Project [Helios!](https://github.com/ronanmarkdsouza/Helios) :rocket:
